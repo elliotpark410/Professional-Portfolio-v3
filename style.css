@@ -1,4 +1,80 @@
-canvas {
-  width: 1280px;
-  height: 800px;
+body{
+  background-image: url("https://cdn.wallpapersafari.com/24/95/KXMnj0.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+
+.home{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  position: relative;
+  top: 200px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 200px ; 
+  margin-bottom: 200px;
+  border: none;
+  background: transparent;
+
+}
+
+.img-fluid{
+  border-radius: 25% 25% 25% 25% ;
+}
+
+#about{
+  max-width:640px;
+}
+
+.d-block{
+ max-height: 500px;
+  max-width: 600px;
+  display: flex;
+  align-content: center;
+} 
+
+.carousel{
+ max-height: 500px;
+  max-width: 600px;
+}
+
+@media screen and (max-width: 610px) {
+
+
+  .d-block{
+      max-height: 300px;
+       max-width: 400px;
+       display: flex;
+       align-content: center;
+   } 
+   
+   .carousel{
+      max-height: 300px;
+       max-width: 400px;
+   }
+
+   .card{
+       width: 320px;
+       margin: 200px 4px;
+   }
+
+   #about{
+       width: 320px;
+   }
+   
+   .home{
+       width: 320px;
+   }
 }
