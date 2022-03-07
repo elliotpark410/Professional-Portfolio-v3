@@ -11,7 +11,7 @@ body{
 
 .nav-link {
   font-size: 25px;
-  color: rgb(193, 195, 211);
+  color: whitesmoke;
 }
 
 
@@ -51,11 +51,6 @@ body{
   display: flex;
   align-content: center;
 } 
-
-/* .carousel {
- max-height: 500px;
-  max-width: 600px;
-} */
 
 
 .carousel-control-prev-icon {
