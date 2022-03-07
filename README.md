@@ -15,7 +15,7 @@ An updated portfolio with my recent projects to show my journey as a developer. 
 ## Links
 
 
-[Deployed App on Github Pages](https://elliotpark410.github.io/Professional-Portfolio-v3/)
+[Elliot Park's Portfolio](https://elliotpark410.github.io/Professional-Portfolio-v3/)
 
 <br>
 
