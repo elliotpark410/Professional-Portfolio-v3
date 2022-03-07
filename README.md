@@ -1,13 +1,13 @@
-# Professional-Portfolio-v3
-An updated portfolio with my recent projects to show my journey as a developer
+# Professional Portfolio
+An updated portfolio with my recent projects to show my journey as a developer. Hope you enjoy it!
 
 
 <br>
 
 
-## GIF of Application
+## GIF of Portfolio
 
-<img src="Images\Social Network API Part 1.gif" title="Social Network API gif Part 1" width = 368px>
+<img src="Images\Professional Portfolio .gif" title="Professional Portfolio GIF" width = 800px>
 
 <br>
 
@@ -15,20 +15,20 @@ An updated portfolio with my recent projects to show my journey as a developer
 ## Links
 
 
-<!-- [Deployed App on Heroku](https://desolate-atoll-11549.herokuapp.com/)
-
-<br> -->
-
-[GIF of Application Part 1](https://drive.google.com/file/d/1ujDLhCHu7S_Z2fy6JaPBoQSyGIfAvxco/view)
+[Deployed App on Github Pages](https://elliotpark410.github.io/Professional-Portfolio-v3/)
 
 <br>
 
-[Github Repository](https://github.com/elliotpark410/Social-Network-API)
+[GIF of Portfolio](https://drive.google.com/file/d/1pQjKxEGZKyX-_fdghjZWsGpljqG6M2qb/view)
+
+<br>
+
+[Github Repository](https://github.com/elliotpark410/Professional-Portfolio-v3)
 
 <br>
 
 
-## Table of Contents
+<!-- ## Table of Contents
   * [Getting Started](#getting-started)
   * [Installation](#installation)
   * [Technologies Used](#technologies-used)
@@ -90,13 +90,13 @@ To run this application, you will need Node and other dependencies:
 <br>
 
 
-<!-- ## Prerequisites
+## Prerequisites
 Requires node.js, npm inquirer, and npm jest (optional)
 
-<br> -->
+<br>
 
 
-<!-- ## Test-Instructions
+## Test-Instructions
 
 To test the API, I recommend downloading [Insomnia's API Platform](https://insomnia.rest/) and enter the following in Insomnia's URL:
 
@@ -130,18 +130,23 @@ Example DELETE: The API request below will delete note with id = "1"
 
 ## Technologies Used
 
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap CSS](https://getbootstrap.com/docs/3.4/css/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Node.js](https://nodejs.org/en/) 
+* [Automate on Scroll](https://michalsnik.github.io/aos/)
+
+<!-- * [Node.js](https://nodejs.org/en/) 
 * [Express](https://www.npmjs.com/package/express) 
 * [Mongoose ODM](https://www.npmjs.com/package/mongoose) 
 * [MongoDB](https://www.mongodb.com/try/download/community)
-* [Insomnia](https://insomnia.rest/download)
+* [Insomnia](https://insomnia.rest/download) -->
 
 
 <br>
 
 
-## Contribution Guidelines
+<!-- ## Contribution Guidelines
 To contribute, please follow these steps:
 
 1. Fork this repository.
@@ -221,7 +226,7 @@ This code snippet shows how you can use Express routes and Mongoose ORM to creat
 * How to use Insomnia for testing API routes
 
 
-<br>
+<br> -->
 
 
 ## Authors
