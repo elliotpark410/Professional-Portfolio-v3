@@ -15,23 +15,21 @@ body{
 }
 
 
-
-
 .home{
   display: flex;
   justify-content: center;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 180px;
   position: relative;
-  top: 100px;
+  top: 150px;
 }
 
 .card{
   display: flex;
   justify-content: center;
   flex-direction: column;
-  margin-top: 100px ; 
-  margin-bottom: 100px;
+  margin-top: 150px ; 
+  margin-bottom: 150px;
   border: none;
   background: transparent;
 
