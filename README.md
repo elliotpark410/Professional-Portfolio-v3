@@ -236,6 +236,9 @@ This code snippet shows how you can use Express routes and Mongoose ORM to creat
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/elliot-park/)
+<br>
+
+[Email](mailto:elliotpark410@gmail.com)
 
 <br>
 
@@ -251,14 +254,14 @@ Big acknowledgements and thank you to Jerome Chenette, Manuel Nunes, Vince Lee, 
 <br>
 
 
-## Contact
+<!-- ## Contact
 If you'd like to learn more about my projects, check out my Github profile: [https://github.com/elliotpark410](https://github.com/elliotpark410)
 
 <br>
 
 If you have any questions, please don't hesitate to email me at [elliotpark410@gmail.com](mailto:elliotpark410@gmail.com)
 
-<br>
+<br> -->
 Copyright (c) 2022 Elliot Park
 
 
