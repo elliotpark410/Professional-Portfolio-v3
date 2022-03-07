@@ -134,7 +134,7 @@ Example DELETE: The API request below will delete note with id = "1"
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap CSS](https://getbootstrap.com/docs/3.4/css/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Automate on Scroll](https://michalsnik.github.io/aos/)
+* [Animate on Scroll](https://michalsnik.github.io/aos/)
 
 <!-- * [Node.js](https://nodejs.org/en/) 
 * [Express](https://www.npmjs.com/package/express) 
